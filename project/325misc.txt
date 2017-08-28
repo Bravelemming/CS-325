@@ -1,0 +1,18 @@
+Jack Daniel Kinne
+CS 325 - Fall 2016
+
+
+
+Human Resources on the Deathstar:
+
+Populated on average 15 objects each entity -- with at least six attributes within.
+
+Used Sequences within population.
+
+Used views within reports.
+
+ERD Diagram is sexy as hell, and VERY easy to read.
+
+All queries and reports were generated from REAL, ACTUAL questions that MATTER, and all questions were included with prompts.
+
+Spent a ridiculous time on this project making a custom scenario.

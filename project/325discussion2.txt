@@ -1,0 +1,12 @@
+Jack Daniel Kinne
+CS 325 - Fall 2016
+12.8.16
+
+How can this implemented database now be maintained?
+
+Human resources on the deathstar is a great database for the Hiring manager responsible for incoming and outgoing employees, and is just a good idea overall.  Maintaining this single point of contact for most informational needs is easy--it can replace paper reporting completely!  But how can it be maintained?
+It needs to become the first, primary information point across the entirety of the human resources department.  Paper record keeping is inefficent, time consuming, and wasteful.  Information stored in this database can be queried, updated, deleted, and access to and from it can be controlled.  Paper can not.  
+THis would require training on part of all HR department personalle, but beyond that no further action would be needed.  Instead of filing paper reports, they would update entries on employee hire, fire, and promotion.  These events would need entered, yes, but once in the DB, they could be shared for the purpose of paying and tracking hours, and reporting taxes.  
+Issues that may arise over time is the need to track new information, changing the tables and the attributes within them.  For example, they may need to add a new type of employee, or expand the information stored about new hires.
+One person as a DBA (PER SECTION OF THE STATION) would be able to take care of this database.  The users permitted to add data would be any employee within Human resources, and any manager would be able to delete entries.  Backup offsite, in the unlikely event of a full loss of station, would be recommended on Endor.
+This database could easily expand to start tracking more information about the employees of the station.  For instance, how much does it cost to keep a single employee alive, versus how much value do they add to the station?  If this relationship between those two figures declines, then that employee can be terminated.  Or, If the Empire wanted more security present at the onset, perhaps human resources can begin a simple background check system for all its employees, instead of relying on outdated password systems, so that freighter ships using old codes cannot slip through so easily to a landing pad.

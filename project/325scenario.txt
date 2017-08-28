@@ -1,0 +1,13 @@
+"Jack" Daniel Kinne
+--
+Scenario Name: Human Resources on board the Deathstar
+--
+The death star (DS-1) is a moon sized deep space battlestation, and Greg is in charge of its Human Resources department!
+
+Greg is responsible for monitoring all employees of four distinct types; officers, hourly workers, free contractors, and salaried employees of varying combat eligibility.  
+Greg has also been tasked with tracking meetings, of which any one employee must run as a chairman and all meetings must be held at a physical location within the deathstar.  
+Greg is tracking all employees' planet of origin, as well as that planet's political affiliations and leanings.  
+Finally, Greg must help support "destruction level events" when the death star fires its main cannons at a real target, which requires unbelievable amounts of paperwork, as an officer must be present to direct it.
+
+Best of all, employees can earn a promotion!  (Except for free contractors.)   
+The employee can also become employee of the month and receives a bonus and a convenient parking space in the hangar bay which they can keep as long as they are an active employee.  

@@ -1,0 +1,7 @@
+Business rules:
+1. An employee can only be of ONE type; no contracted officers, for example.
+2. All employees must list their first name and planet of origin for a mandatory background check.
+3. All contractors require a rated security clearance to enter restricted sections of the deathstar, as well as a sponsor company for their Deathstar Visa.
+4.  Contractors cannot chair meetings.
+5.  D.L.E.'s Must be run by Officers, only.
+6.  Bothans are never allowed to be hired as officers or salaried employees.  (They are entirely untrustworthy and usually spies.)

@@ -1,0 +1,12 @@
+Jack Daniel Kinne
+CS 325 - Fall 2016
+12.8.16
+
+"How can this implemented database now be used?"
+
+The power of this database is vast.  In this particular database, and on the death star, you are always worried about infiltrators, spies, and information about the superweapon being released to nefarious parties.  Security is the number one concern for the human resources department.
+Consider some of the queries written in <325queries.sql>:  Who is an employee from a planned target of the death star, and what is their job?  Knowing beforehand who is a security risk is good error checking in a small, constrainted population living on a mobile superweapon.
+which employees came from a rebel aligned planet, specifically, and havent been promoted in their career? Would they feel embittered enough to pass information to a bothan?  If you know about these risks before hand, we can eliminate leaks and reduce plan leakage.  
+Which employees come from a non-empire affliated planet and have been promoted to a higher level of security clearance?  All of these questions are accessable through normal data offered to us from the employee human resources database we have created.  
+With two deathstars already destroyed, in parts from the betrayal of a local stormtrooper disastified with his position and the leakage of plans in another instance, there is no question that embracing the power of a database can address some of these obvious pitfalls.  
+Its not just security that can be addressed with this informational database.  Meetings are an integral part of the experience aboard the vessel, and some of them have poor attendence!  Increasing meetings, and covering subjects that recieve more attendence, can boost efficiency amongst all employee types, and reduce waste.  If the government is paying for an empty room, that costs.  Then too, proper tracking of the performance of officers in running destruction level events can be critical in ensuring the deathstar is used to it's fullest potential.
