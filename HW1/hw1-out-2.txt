@@ -1,0 +1,42 @@
+Jack Daniel Kinne
+'printing contents of client table:'
+
+CLI_ CLI_LNAME                 CLI_FNAME                  CLI_PHONE             
+---- ------------------------- ------------------------- ----------             
+000A alpha                     ann                          1234567             
+111B beta                      bob                          1111112             
+222B beta                      ann                            -2001             
+333C carlos                    david                        3333334             
+444D delta                     edie                         1111112             
+123J Jack                      Kinne                        1234567             
+
+6 rows selected.
+
+'printing contents of video table:'
+
+VID_ID VID_FORMAT VID_PURCH VID_RENTAL_PRICE VID_LENGTH                         
+------ ---------- --------- ---------------- ----------                         
+00000D dvd        16-SEP-16             1.99         73                         
+11111H hd-dvd     16-SEP-16             4.99         91                         
+22222B blueray    16-SEP-16             1.99        105                         
+33333H hd-dvd     16-SEP-16             3.99         69                         
+44444B blueray    16-SEP-16              .99         91                         
+77777J dvd        16-SEP-16            10.99        111                         
+
+6 rows selected.
+
+'print contents of rental table:'
+
+CLI_ VID_ID                                                                     
+---- ------                                                                     
+111B 11111H                                                                     
+222B 00000D                                                                     
+222B 22222B                                                                     
+333C 22222B                                                                     
+333C 00000D                                                                     
+333C 11111H                                                                     
+000A 44444B                                                                     
+123J 77777J                                                                     
+
+8 rows selected.
+
