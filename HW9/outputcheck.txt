@@ -1,0 +1,494 @@
+
+Homework 9 - Problem 3
+<your name>
+
+(remember: your 2-line titles will vary, you chose their contents...)
+
+************
+problem 3-2
+
+Sat Nov 19                                                        page    1
+                                  CS 325
+                          Homework 9 - Problem 3
+
+CLIENT_NAME                      MOVIE_TITLE                               
+-------------------------------- ----------------------------------------  
+VID_FOR VID_RENTAL_PRICE                                                   
+------- ----------------                                                   
+Alpha, Ann                       It's a Wonderful Life                     
+DVD                 5.99                                                   
+                                                                           
+Beta, Bob                        Gone with the Wind                        
+DVD                 4.99                                                   
+                                                                           
+Beta, Bob                        The Muppet Movie                          
+DVD                 4.99                                                   
+                                                                           
+Beta, Bob                        Toy Story                                 
+DVD                 4.99                                                   
+                                                                           
+Carlos, Ann                      Gone with the Wind                        
+DVD                 4.99                                                   
+                                                                           
+Epsilon, Emma                    Gone with the Wind                        
+DVD                 4.99                                                   
+                                                                           
+Feta, Frank                      The Muppet Movie                          
+DVD                 4.99                                                   
+                                                                           
+Feta, Frank                      The Muppet Movie                          
+DVD                 4.99                                                   
+                                                                           
+                         Humboldt State University
+                                 Fall 2016
+
+Sat Nov 19                                                        page    2
+                                  CS 325
+                          Homework 9 - Problem 3
+
+CLIENT_NAME                      MOVIE_TITLE                               
+-------------------------------- ----------------------------------------  
+VID_FOR VID_RENTAL_PRICE                                                   
+------- ----------------                                                   
+Greta, Gail                      Indiana Jones and the Temple of Doom      
+DVD                 3.99                                                   
+                                                                           
+Harpo, Harry                     Star Wars                                 
+DVD                 3.99                                                   
+                                                                           
+Alpha, Ann                       The Phantom Menace                        
+Blu-Ray             2.99                                                   
+                                                                           
+Beta, Edie                       Gone with the Wind                        
+Blu-Ray             2.99                                                   
+                                                                           
+Carlos, Ann                      Gone with the Wind                        
+Blu-Ray             2.99                                                   
+                                                                           
+Carlos, Ann                      Toy Story 2                               
+Blu-Ray             2.99                                                   
+                                                                           
+Delta, David                     Gone with the Wind                        
+Blu-Ray             2.99                                                   
+                                                                           
+Feta, Frank                      Gone with the Wind                        
+Blu-Ray             2.99                                                   
+                                                                           
+                         Humboldt State University
+                                 Fall 2016
+
+Sat Nov 19                                                        page    3
+                                  CS 325
+                          Homework 9 - Problem 3
+
+CLIENT_NAME                      MOVIE_TITLE                               
+-------------------------------- ----------------------------------------  
+VID_FOR VID_RENTAL_PRICE                                                   
+------- ----------------                                                   
+Beta, Edie                       Indiana Jones and the Temple of Doom      
+Blu-Ray             2.19                                                   
+                                                                           
+Carlos, Ann                      One Flew Over the Cuckoo's Nest           
+Blu-Ray             2.19                                                   
+                                                                           
+Harpo, Harry                     The Empire Strikes Back                   
+HD-DVD              1.29                                                   
+                                                                           
+Beta, Edie                       Star Wars                                 
+HD-DVD               .99                                                   
+                                                                           
+Carlos, Ann                      Indiana Jones and the Temple of Doom      
+HD-DVD               .99                                                   
+                                                                           
+Epsilon, Emma                    Indiana Jones and the Temple of Doom      
+HD-DVD               .99                                                   
+                                                                           
+Harpo, Harry                     Star Wars                                 
+HD-DVD               .99                                                   
+                                                                           
+
+
+
+                         Humboldt State University
+                                 Fall 2016
+************
+problem 3-3
+
+Sat Nov 19                                                        page    1
+                                  CS 325
+                          Homework 9 - Problem 3
+
+                                                   Video    Rental         
+Client        Movie Title                          Format    Price         
+------------- ------------------------------------ ------- -------         
+Alpha, Ann    It's a Wonderful Life                DVD       $5.99         
+Beta, Bob     Gone with the Wind                   DVD       $4.99         
+Beta, Bob     The Muppet Movie                     DVD       $4.99         
+Beta, Bob     Toy Story                            DVD       $4.99         
+Carlos, Ann   Gone with the Wind                   DVD       $4.99         
+Epsilon, Emma Gone with the Wind                   DVD       $4.99         
+Feta, Frank   The Muppet Movie                     DVD       $4.99         
+Feta, Frank   The Muppet Movie                     DVD       $4.99         
+Greta, Gail   Indiana Jones and the Temple of Doom DVD       $3.99         
+Harpo, Harry  Star Wars                            DVD       $3.99         
+Alpha, Ann    The Phantom Menace                   Blu-Ray   $2.99         
+Beta, Edie    Gone with the Wind                   Blu-Ray   $2.99         
+Carlos, Ann   Gone with the Wind                   Blu-Ray   $2.99         
+Carlos, Ann   Toy Story 2                          Blu-Ray   $2.99         
+Delta, David  Gone with the Wind                   Blu-Ray   $2.99         
+Feta, Frank   Gone with the Wind                   Blu-Ray   $2.99         
+Beta, Edie    Indiana Jones and the Temple of Doom Blu-Ray   $2.19         
+Carlos, Ann   One Flew Over the Cuckoo's Nest      Blu-Ray   $2.19         
+Harpo, Harry  The Empire Strikes Back              HD-DVD    $1.29         
+Beta, Edie    Star Wars                            HD-DVD     $.99         
+Carlos, Ann   Indiana Jones and the Temple of Doom HD-DVD     $.99         
+Epsilon, Emma Indiana Jones and the Temple of Doom HD-DVD     $.99         
+Harpo, Harry  Star Wars                            HD-DVD     $.99         
+
+
+                         Humboldt State University
+                                 Fall 2016
+************
+problem 3-4
+
+Sat Nov 19                                                        page    1
+                                  CS 325
+                          Homework 9 - Problem 3
+
+CATEGORY_N NUM_VIDEOS AVG_RENTAL_PRICE                                     
+---------- ---------- ----------------                                     
+Action             20            3.125                                     
+Family             10             3.79                                     
+Classic             6       3.32333333                                     
+Drama               5             2.01                                     
+Comedy              1             1.99                                     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         Humboldt State University
+                                 Fall 2016
+************
+problem 3-5
+
+Sat Nov 19                                                        page    1
+                                  CS 325
+                          Homework 9 - Problem 3
+
+                    Average                                                
+Category   # Videos   Price                                                
+---------- -------- -------                                                
+Action           20   $3.13                                                
+Family           10   $3.79                                                
+Classic           6   $3.32                                                
+Drama             5   $2.01                                                
+Comedy            1   $1.99                                                
+
+
+
+
+
+                         Humboldt State University
+                                 Fall 2016
+************
+problem 3-6
+
+===================
+3-6 part a
+
+Sat Nov 19                                                        page    1
+                                  CS 325
+                          Homework 9 - Problem 3
+
+                    Average                                                
+Category   # Videos   Price                                                
+---------- -------- -------                                                
+Action           20   $2.63                                                
+Family           10   $3.30                                                
+Classic           6   $2.66                                                
+Drama             5   $1.22                                                
+Comedy            1   $1.99                                                
+
+
+
+
+
+                         Humboldt State University
+                                 Fall 2016
+
+===================
+3-6 part b
+
+Sat Nov 19                                                        page    1
+                                  CS 325
+                          Homework 9 - Problem 3
+
+Client                                                                     
+-------------                                                              
+Beta, Bob                                                                  
+Beta, Edie                                                                 
+Carlos, Ann                                                                
+Delta, David                                                               
+Epsilon, Emma                                                              
+Feta, Frank                                                                
+
+
+
+
+
+                         Humboldt State University
+                                 Fall 2016
+
+===================
+3-6 part c
+
+Sat Nov 19                                                        page    1
+                                  CS 325
+                          Homework 9 - Problem 3
+
+Client                                                                     
+-------------                                                              
+Beta, Bob                                                                  
+Carlos, Ann                                                                
+Delta, David                                                               
+Epsilon, Emma                                                              
+Feta, Frank                                                                
+
+
+
+
+
+
+                         Humboldt State University
+                                 Fall 2016
+
+===================
+3-6 part d
+
+Sat Nov 19                                                        page    1
+                                  CS 325
+                          Homework 9 - Problem 3
+
+Client          COUNT(*)                                                   
+------------- ----------                                                   
+Carlos, Ann            5                                                   
+Beta, Bob              3                                                   
+Feta, Frank            3                                                   
+Harpo, Harry           3                                                   
+Alpha, Ann             2                                                   
+Epsilon, Emma          2                                                   
+Delta, David           1                                                   
+Greta, Gail            1                                                   
+
+
+
+                         Humboldt State University
+                                 Fall 2016
+************
+problem 3-7
+
+Sat Nov 19                                                        page    1
+                                  CS 325
+                          Homework 9 - Problem 3
+
+Movie Title                          Client                                
+------------------------------------ -------------                         
+Gone with the Wind                   Beta, Bob                             
+                                     Beta, Edie                            
+                                     Carlos, Ann                           
+                                     Delta, David                          
+                                     Epsilon, Emma                         
+                                     Feta, Frank                           
+                                                                           
+Indiana Jones and the Temple of Doom Beta, Edie                            
+                                     Carlos, Ann                           
+                                     Epsilon, Emma                         
+                                     Greta, Gail                           
+                                                                           
+It's a Wonderful Life                Alpha, Ann                            
+                                                                           
+One Flew Over the Cuckoo's Nest      Carlos, Ann                           
+                                                                           
+Star Wars                            Beta, Edie                            
+                                     Harpo, Harry                          
+                                                                           
+The Empire Strikes Back              Harpo, Harry                          
+                                                                           
+The Muppet Movie                     Beta, Bob                             
+                                     Feta, Frank                           
+                                                                           
+The Phantom Menace                   Alpha, Ann                            
+                                                                           
+Toy Story                            Beta, Bob                             
+                                                                           
+Toy Story 2                          Carlos, Ann                           
+                                                                           
+
+
+
+
+
+
+                         Humboldt State University
+                                 Fall 2016
+************
+problem 3-8
+
+Sat Nov 19                                                        page    1
+                                  CS 325
+                          Homework 9 - Problem 3
+
+Category   Rating Movie Title                                              
+---------- ------ ------------------------------------                     
+Action     PG     Indiana Jones and the Temple of Doom                     
+                  Return of the Jedi                                       
+                  Star Wars                                                
+                  The Empire Strikes Back                                  
+                  The Phantom Menace                                       
+           PG-13  Indiana Jones and the Last Crusade                       
+           R      The Matrix                                               
+                                                                           
+Classic    G      All About Eve                                            
+                  Gone with the Wind                                       
+                  It's a Wonderful Life                                    
+                  The Philadelphia Story                                   
+                                                                           
+Comedy     R      The Blues Brothers                                       
+                                                                           
+Drama      A      Clockwork Orange                                         
+                  Midnight Cowboy                                          
+           R      Fatal Attraction                                         
+                  One Flew Over the Cuckoo's Nest                          
+                                                                           
+Family     G      Babe                                                     
+                  The Muppet Movie                                         
+                  Toy Story                                                
+                  Toy Story 2                                              
+                                                                           
+
+
+
+
+
+
+
+
+
+
+
+                         Humboldt State University
+                                 Fall 2016
+************
+problem 3-9
+
+Sat Nov 19                                                        page    1
+                                  CS 325
+                          Homework 9 - Problem 3
+
+Category   Rating Movie Title                                              
+---------- ------ ------------------------------------                     
+Action     PG     Indiana Jones and the Temple of Doom                     
+                  Return of the Jedi                                       
+                  Star Wars                                                
+                  The Empire Strikes Back                                  
+                  The Phantom Menace                                       
+           PG-13  Indiana Jones and the Last Crusade                       
+           R      The Matrix                                               
+********** ****** ------------------------------------                     
+count                                                7                     
+                                                                           
+Classic    G      All About Eve                                            
+                  Gone with the Wind                                       
+                  It's a Wonderful Life                                    
+                  The Philadelphia Story                                   
+********** ****** ------------------------------------                     
+count                                                4                     
+                                                                           
+Comedy     R      The Blues Brothers                                       
+********** ****** ------------------------------------                     
+count                                                1                     
+                                                                           
+Drama      A      Clockwork Orange                                         
+                  Midnight Cowboy                                          
+           R      Fatal Attraction                                         
+                  One Flew Over the Cuckoo's Nest                          
+********** ****** ------------------------------------                     
+count                                                4                     
+                                                                           
+Family     G      Babe                                                     
+                  The Muppet Movie                                         
+                  Toy Story                                                
+                  Toy Story 2                                              
+********** ****** ------------------------------------                     
+count                                                4                     
+                                                                           
+
+                         Humboldt State University
+                                 Fall 2016
+************
+problem 3-10
+
+Sat Nov 19                                                        page    1
+                                  CS 325
+                          Homework 9 - Problem 3
+
+Category   Movie Title                             Cost                    
+---------- ------------------------------------ -------                    
+Action     Indiana Jones and the Temple of Doom    $.99                    
+                                                   $.99                    
+                                                  $2.19                    
+                                                  $3.99                    
+           Star Wars                               $.99                    
+                                                   $.99                    
+                                                  $3.99                    
+           The Empire Strikes Back                $1.29                    
+           The Phantom Menace                     $2.99                    
+********** ************************************ -------                    
+AVERAGE                                           $2.05                    
+                                                                           
+Classic    Gone with the Wind                     $2.99                    
+                                                  $2.99                    
+                                                  $2.99                    
+                                                  $2.99                    
+                                                  $4.99                    
+                                                  $4.99                    
+                                                  $4.99                    
+           It's a Wonderful Life                  $5.99                    
+********** ************************************ -------                    
+AVERAGE                                           $4.12                    
+                                                                           
+Drama      One Flew Over the Cuckoo's Nest        $2.19                    
+********** ************************************ -------                    
+AVERAGE                                           $2.19                    
+                                                                           
+Family     The Muppet Movie                       $4.99                    
+                                                  $4.99                    
+                                                  $4.99                    
+           Toy Story                              $4.99                    
+           Toy Story 2                            $2.99                    
+********** ************************************ -------                    
+AVERAGE                                           $4.59                    
+                                                                           
+
+                         Humboldt State University
+                                 Fall 2016
+************
+problem 3-11
+   

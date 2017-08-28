@@ -1,0 +1,132 @@
+Jack Daniel Kinne
+hw9-2
+		--
+		entity integrity
+		domain integrity
+		referential integrity
+		transaction integrity
+		--
+
+problem 2-1 a
+
+	domain integrity
+
+problem 2-1 b
+
+	entity integrity
+
+problem 2-1 c
+
+	referential integrity
+
+problem 2-1 d
+
+	transaction integrity
+
+problem 2-1 e
+
+	entity integrity
+
+problem 2-1 f
+
+	referential integrity
+
+problem 2-1 g
+
+	transaction integrity
+
+problem 2-1 h
+
+	domain integrity
+
+		--
+		atomicity
+		consistency
+		isolation
+		durability
+		serializability
+		--
+
+problem 2-2 a
+
+	durability
+
+problem 2-2 b
+
+	serializability
+
+problem 2-2 c
+
+	consistency
+
+problem 2-2 d
+
+	Durability
+	Atomicity
+
+problem 2-2 e
+
+	isolation
+
+problem 2-2 f
+
+	atomicity
+	
+--
+
+problem 2 - 3 a
+
+	no
+
+problem 2 - 3 b
+
+	yes
+
+problem 2 - 3 c
+
+	no
+
+--
+
+problem 2 - 4 a
+
+	T3 will obtain the lock
+
+problem 2 - 4 b
+
+	T4 will have to wait for T2 to release the lock on C
+
+--
+
+problem 2 - 5 a
+
+	A is exclusively/write locked with T1, so it can both write or read.
+
+problem 2 - 5 b
+
+	T2 can read C only.
+
+problem 2 - 5 c
+
+	T3 will obtain the lock, as nothing is locking D.
+
+problem 2 - 5 d
+
+	T4 will obtain a shared lock on C.
+
+problem 2 - 5 e
+
+	T5 will have to wait, as C is shared locked to T2.
+
+problem 2 - 5 f
+
+	T6 will obtain a shared lock on B.
+
+-- 
+
+problem 2-6
+
+	Deadlock, or a deadly embrace.  
+
+--
+

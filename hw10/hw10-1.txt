@@ -1,0 +1,51 @@
+Jack Daniel Kinne
+HW 10
+--
+problem 1
+1 part a
+That transaction will be aborted, rescheduled, 
+and assigned a new and larger time. stamp.
+--
+1 part b
+read A:  (ts)8
+write A: (ts)7
+Attempt: T1 write (ts)18 
+ACCEPTED
+Write A: update (ts)18
+Read A: (ts)8
+--
+1 part c
+read b: (ts)22
+write b: (ts)21
+Attempt: T2 write (ts)19
+REJECTED
+read b: (ts)22
+write b: (ts)21
+Reset T2
+--
+1 part d
+read c:(ts)17
+write c:(ts)12
+attempt: T3 read (ts)13
+ACCEPTED
+read c:(ts)17
+write c:(ts)12
+--
+1 part e
+read d: (ts)12
+write d: (ts)29
+attempt: T4 read (ts)24
+REJECTED
+read d: (ts)12
+write d: (ts)29
+Reset T4
+--
+1 part f
+read e: (ts) 20
+write e: (ts) 16
+attempt: T5 write (ts) 18
+REJECTED
+read e: (ts) 20
+write e: (ts) 16
+Reset T5
+--

@@ -1,0 +1,22 @@
+Jack Daniel Kinne
+CS 325 HW7
+11.2.16
+
+problem 1
+relation structure form with foreign keys
+
+Member(MEM-NUM, mem-Lname, mem-date-joined, park-id)
+foreign key (park-id) references parking space
+
+mem-email(MEM-NUM, EMAIL)
+foreign key (mem-num) references Member
+
+Seminar(SEM-NUM, sem_title, time-begin, time-end, mem-num)
+foreign key (mem-num) references member
+
+Parking-space(PARK-ID, garage-name, section-num, space-num)
+
+member-in-seminar(MEM-NUM, SEM-NUM)
+foreign key (mem-num) references member
+foreign key (sem-num) references seminar
+

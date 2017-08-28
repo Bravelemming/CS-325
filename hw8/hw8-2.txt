@@ -1,0 +1,68 @@
+--Jack Daniel Kinne
+-- CS 325 HW 08
+
+----------------------------
+Problem 2 part A
+----------------------------
+relation structure + FK
+
+Client (CLI_NUM, cli_email, cli_TYPE)
+
+client_os(CLI_NUM, CLI_OS)
+foreign key (CLI_NUM) references Client
+
+Corp (CLI_NUM, Fax_num, corp_name)
+foreign key (CLI_NUM) references Client
+
+individ (CLI_NUM, individ_last_name, individ_first_name, individ_ssn)
+foreign key (CLI_NUM) references Client
+
+Account (ACCT_NUM, acct_opening_date, acct_curr_balance, acct_int_rate)
+
+Transaction (TRANS_NUM, trans_date, trans_amount, ACCT_NUM)
+foreign key (ACCT_NUM) references Account
+
+Client_with_account (CLI_NUM, ACCT_NUM)
+foreign key (CLI_NUM) references Client
+foreign key (ACCT_NUM) references Account
+
+---------------------------
+problem 2 part b 
+---------------------------
+relation structure + FK
+
+donation (DON_NUM, don_date, don_amount, BOOSTER_NUM)
+foreign key (BOOSTER_NUM) references booster
+
+booster (BOOSTER_NUM, booster_lname, booster_fname, booster_email, 
+is_parent, is_alum, is_friend)
+
+student (STU_ID, stu_lname, stu_fname, stu_grade, stu_gpa)
+
+parent (BOOSTER_NUM, vol_hrs,  prefd_phone)
+foreign key (BOOSTER_NUM) references booster
+
+alum (BOOSTER_NUM, year_left)
+foreign key (BOOSTER_NUM) references booster
+
+friend (BOOSTER_NUM, year_joined)
+foreign key (BOOSTER_NUM) references booster
+
+student_has_parent (STU_ID, BOOSTER_NUM)
+foreign key (STU_ID) references student
+foreign key (BOOSTER_NUM) references booster
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
